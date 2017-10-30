@@ -1,2 +1,3 @@
 # hello-world
 Hello World Repository 
+Old guy who wants to learn how to code, currently teaching Engineering to young apprentices, & understnading how code works will help me develop my students...
